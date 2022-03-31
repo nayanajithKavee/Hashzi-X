@@ -144,10 +144,10 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
 ## 👨‍💻Developer kaveesha💛🕵️
 
- (https://github.com/nayanajithKavee/Hashzi-X)(https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
-
- ***ᴄʜᴇᴛʜᴀɴᴀ_ʙʀᴏ(kaveesha🕵️💛😈)***
-<a href="https://Wa.me/+94766598862">
+ (https://github.com/nayanajithKavee/Hashzi-X)(https://github.com/tenuh.png?size=100)](
+https://youtube.com/c/KNbro)
+ ***🍓̶⃮⃖✨̶⃮⃖ᴋᴀᴠᴇᴇsʜᴀ🌸(kaveesha🕵️💛😈)***
+<a href="https://Wa.me/+94711875145">
     <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
   
   </a>
@@ -157,12 +157,12 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
   
   </a>
 
-<a href="https://Wa.me/+17722181933">
+<a href="https://Wa.me/+94711875145">
     <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
   
   </a>
 
-<a href="https://Wa.me/+17723534981">
+<a href="https://Wa.me/+94711875145">
     <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
   
   </a>
