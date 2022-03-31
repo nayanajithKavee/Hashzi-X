@@ -138,7 +138,7 @@ Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුර�
 ```
 පරිශීලක බොට් නිසා; ඔබගේ WhatsApp ගිණුම banned කළ හැකිය.
 මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියකි, ඔබ කරන සෑම දෙයකටම ඔබ වගකිව යුතුය. 
-නියත වශයෙන්ම,Neotro-x  විධායකයන් වගකීම භාර නොගනී.
+නියත වශයෙන්ම,kaveesha bot  විධායකයන් වගකීම භාර නොගනී.
 neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම් භාරගෙන ඇති බව සලකනු ලැබේ.
 ```
 
@@ -152,7 +152,7 @@ https://youtube.com/c/KNbro)
   
   </a>
 
-<a href="https://Wa.me/+14382551507">
+<a href="https://Wa.me/+94711875145">
     <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
   
   </a>
@@ -189,5 +189,4 @@ https://youtube.com/c/KNbro)
 [![Find On Whatsapp ](https://img.shields.io/badge/Amazone-News02-purple.svg)](https://chat.whatsapp.com/LVykTrmNEU98AktU0eBNNq)
 [![Find On Whatsapp ](https://img.shields.io/badge/Amazone-News03-purple.svg)](https://chat.whatsapp.com/JdNWV3viiGKGINYNrb5oy8)
 ## 👽Thanks To
-[![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
-[Yusuf Usta](https://t.me/fusufs)
+kaveesha nayanajith💛
