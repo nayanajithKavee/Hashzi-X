@@ -15,7 +15,7 @@ async function whatsAsena() {
   conn.on('connecting', async () => {
     console.log(`${chalk.green.bold('Amazone Alexa')}${chalk.green.bold('Team')}
 ${chalk.white.italic('amazone String code recipient')}
-${chalk.blue.bold('ℹ️  Connecting alexa... Please wait.')}`);
+${chalk.blue.bold('ℹ️  Connecting kaveesha bot🇱🇰... Please wait.')}`);
   });
 
   conn.on('open', async () => {
@@ -43,7 +43,7 @@ ${chalk.blue.bold('ℹ️  Connecting alexa... Please wait.')}`);
     } else {
       await conn.sendMessage(
         conn.user.jid,
-        '*~_____________~* *'+ conn.user.name + ' ~_____________~*\n\n*▪️ Amazone Successfully Scanned✅️*\n*▪️Thanks For Choosing Amazone 💞*',
+        '*~_____________~* *'+ conn.user.name + ' ~_____________~*\n\n*▪️ Amazone Successfully Scanned✅️*\n*▪️Thanks For Choosing kaveesha bot💛 💞*',
         MessageType.text
       );
     }
