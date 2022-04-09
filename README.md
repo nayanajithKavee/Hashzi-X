@@ -20,7 +20,7 @@
     Project of 🧸kaveesha bot💛 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගත හැකි Whatsapp රොබෝවෙකි. 🧸kaveesha🧸යනු ලංකාවෙ පළවෙනි සිංහල whatsapp රොබෝව වේ..🇱🇰
     <br>
         <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
-        <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> |
+        <a href="https://Wa.me/+94766598862">kaveesha Whatsapp🦹‍♂ </a> |
    </a>    
         
   <p align="center">
